@@ -1,0 +1,28 @@
+{
+  "ping": "ping của bot đang là {pingBot}",
+  "prefixCommands": {
+    "Moderation": {
+      "giveaway": {
+        "start": {}
+      }
+    },
+    "settings": {
+      "setupmusic": {
+        "text_desc": "Thiết lập hệ thống âm nhạc cho channel",
+        "text_1": "**Bạn quên ping một Text-Channel!**",
+        "text_2": "**Thiết lập thành công Hệ thống Âm nhạc trong:** <#{setupChannel}>"
+      }
+    },
+    "utility": {
+      "ping": {
+        "ping_desc": "Hiển thị độ trễ phản hồi",
+        "ping_1": "***Đang tải dữ liệu...*** 💬",
+        "ping_2": "Nhịp websocket",
+        "ping_3": "Độ trễ khứ hồi",
+        "ping_4": "Độ trễ API",
+        "ping_5": "Sử dụng bộ nhớ"
+      }
+    }
+  },
+  "slashCommands": {}
+}

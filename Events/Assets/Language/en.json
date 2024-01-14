@@ -1,0 +1,28 @@
+{
+  "ping": "The bot's ping is {pingBot}",
+  "prefixCommands": {
+    "Moderation": {
+      "giveaway": {
+        "start": {}
+      }
+    },
+    "settings": {
+      "setupmusic": {
+        "text_desc": "Set up the music system for the channel",
+        "text_1": "**You forgot to ping a Text-Channel!**",
+        "text_2": "**Successfully setup Music System in:** <#{setupChannel}>"
+      }
+    },
+    "utility": {
+      "ping": {
+        "ping_desc": "Display response delay",
+        "ping_1": "***Loading...*** 💬",
+        "ping_2": "Websocket rhythm",
+        "ping_3": "Round trip delay",
+        "ping_4": "API Latency",
+        "ping_5": "Memory usage"
+      }
+    }
+  },
+  "slashCommands": {}
+}
